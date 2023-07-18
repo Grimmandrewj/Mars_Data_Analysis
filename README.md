@@ -1,8 +1,8 @@
 # Goal
-- In this challenge, I was tasked with completing a full web-scraping and data analysis project
-- I was provided with two websites on the topic of the planet Mars, one consisting of news articles and the other a table of weather data
-- Part 1 of the project was to scrape tiles and preview text from news articles
-- Part 2 was to scrape and analyze Mars weather data
+- In this challenge, I was tasked with completing a full web-scraping and data analysis project.
+- I was provided with two websites on the topic of the planet Mars, one consisting of news articles and the other a table of weather data.
+- Part 1 of the project was to scrape tiles and preview text from news articles.
+- Part 2 was to scrape and analyze Mars weather data.
 
 # Method
 - Part 1 - Scraping Tiles
